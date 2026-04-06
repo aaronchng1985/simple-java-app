@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Give me MONEY, do not hesitate, if not you'll die, no body going to save you!");
+        System.out.println("Give me MONEY, do not hesitate, if not you'll die, no body going to save you, hahah!");
     }
 
     public String getMessage() {
