@@ -17,7 +17,7 @@ pipeline {
     
     stage('Dummy') { 
       steps { 
-        echo 'Meaningless statement to verify this'             
+        echo 'Meaningless statement to verify this. haha'             
       } 
     } 
 
